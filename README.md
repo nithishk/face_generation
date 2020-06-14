@@ -12,7 +12,7 @@ The aim is to use generative adversarial networks and generate new images of fac
 
 You'll be using the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train your adversarial networks.
 
-![Image of Yaktocat](/assets/1.JPG)
+![Image of Yaktocat](/assets/1.PNG)
 
 
 Open the face_generation.ipynb on a GPU enabled Python notebook evironment. The notebook consists of further technical details. Run the notebook to generate your own unique and random face images 
