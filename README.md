@@ -1,14 +1,11 @@
-# Face_generation Project Overview
+### Face_generation Project Overview
 
 Goal of this project is to train a DCGAN on a dataset of faces
 
 The aim is to use generative adversarial networks and generate new images of faces that look as reaslitic as possible. 
 
-# Getting started
 
-
-
-# Get the Data
+### Get the Data
 
 You'll be using the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train your adversarial networks.
 
@@ -23,6 +20,6 @@ Open the face_generation.ipynb on a GPU enabled Python notebook evironment. The 
 * Implement a learning rate the evolves over time
 * See if this model can be extend and use a CycleGAN to learn to swap different kinds of faces. 
 
-# It generates new human faces that look like this
+### It generates new human faces that look like this
 
 ![Image ](/assets/2.PNG)
